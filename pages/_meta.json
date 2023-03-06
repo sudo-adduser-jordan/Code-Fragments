@@ -1,0 +1,17 @@
+{
+  "index": "Introduction",
+  "operating-systems": "Operating Systems",
+  "package-managers": "Package Managers",
+  "languages": "Languages",
+
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "newWindow": true
+  }
+}
