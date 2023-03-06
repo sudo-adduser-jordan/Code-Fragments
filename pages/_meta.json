@@ -1,8 +1,13 @@
 {
   "index": "Introduction",
   "operating-systems": "Operating Systems",
+  "git": "Git",
   "package-managers": "Package Managers",
+  "databases": "Databases",
   "languages": "Languages",
+  "frameworks": "Frameworks",
+  "templates": "Templates",
+
 
   "about": {
     "title": "About",
